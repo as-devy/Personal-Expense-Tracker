@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Launch",
+        "category": "Food",
+        "amount": 50.0,
+        "date": "2026-09-22T14:10:43.131133",
+        "id": 1
+    },
+    {
+        "title": "Taxi",
+        "category": "Transport",
+        "amount": 100.0,
+        "date": "2026-09-22T14:11:01.091880",
+        "id": 2
+    }
+]
